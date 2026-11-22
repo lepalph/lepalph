@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-label="tactile-touch-bar: A Touch Bar you set up in one TOML file.">
+<rect x="0.75" y="0.75" width="1198.5" height="228.5" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<rect x="630" y="16" width="554" height="198" rx="10" fill="#010409"/>
+<text x="40" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#8b949e" xml:space="preserve"><tspan fill="#7ee787">❯</tspan> cd ~/projects/tactile-touch-bar</text>
+<text x="40" y="106" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.8" fill="#e6edf3">tactile-touch-bar</text>
+<text x="40" y="142" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#8b949e">A Touch Bar you set up in one TOML file.</text>
+<circle cx="47" cy="185" r="7" fill="#dea584"/>
+<text x="62" y="190" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e" xml:space="preserve">Rust    v0.4.1 · macOS · MIT</text>
+<rect x="699.3" y="74.5" width="415.4" height="81.0" rx="6" fill="none" stroke="#c9d1d9" stroke-width="1.4" opacity=".9"/>
+<text x="708.3" y="98.6" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">[ esc ]  [ ▸ play ]  [ ⌘ build ]</text>
+<text x="708.3" y="140.6" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">vol  ━━━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━</text>
+</svg>

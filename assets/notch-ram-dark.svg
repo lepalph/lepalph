@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-label="notch-ram: A RAM gauge that lives in the MacBook notch.">
+<rect x="0.75" y="0.75" width="1198.5" height="228.5" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<rect x="630" y="16" width="554" height="198" rx="10" fill="#010409"/>
+<text x="40" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#8b949e" xml:space="preserve"><tspan fill="#7ee787">❯</tspan> cd ~/projects/notch-ram</text>
+<text x="40" y="106" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.8" fill="#e6edf3">notch-ram</text>
+<text x="40" y="142" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#8b949e">A RAM gauge that lives in the MacBook notch.</text>
+<circle cx="47" cy="185" r="7" fill="#F05138"/>
+<text x="62" y="190" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e" xml:space="preserve">Swift    v0.1.0 · macOS · MIT</text>
+<rect x="767.0" y="53.5" width="279.9" height="123.0" rx="6" fill="none" stroke="#c9d1d9" stroke-width="1.4" opacity=".9"/>
+<text x="776.1" y="77.6" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">██████████████░░░░░░░░   62 %</text>
+<rect x="776.1" y="93.3" width="261.9" height="1.4" fill="#c9d1d9" opacity=".5"/>
+<text x="776.1" y="119.6" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">Safari             1.46 GB  ×</text>
+<text x="776.1" y="140.6" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">kitty              0.96 GB  ×</text>
+<text x="776.1" y="161.6" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">Xcode              0.83 GB  ×</text>
+</svg>
