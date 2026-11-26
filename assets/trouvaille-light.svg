@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-label="Trouvaille: Search what is said in a YouTube video and jump to that moment.">
+<rect x="0.75" y="0.75" width="1198.5" height="228.5" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="630" y="16" width="554" height="198" rx="10" fill="#f6f8fa"/>
+<text x="40" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#59636e" xml:space="preserve"><tspan fill="#1a7f37">❯</tspan> cd ~/projects/trouvaille</text>
+<text x="40" y="106" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.8" fill="#1f2328">Trouvaille</text>
+<text x="40" y="142" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#59636e">Search what is said in a YouTube video, jump to that moment.</text>
+<circle cx="47" cy="185" r="7" fill="#f1e05a"/>
+<text x="62" y="190" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#59636e" xml:space="preserve">JavaScript    v0.1.0 · Chrome &amp; Opera extension · MIT</text>
+<rect x="736.0" y="43.0" width="343.0" height="144.0" rx="6" fill="none" stroke="#24292f" stroke-width="1.4" opacity=".9"/>
+<text x="745.0" y="67.1" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#24292f" xml:space="preserve">/attention           2/7  ↑ ↓</text>
+<rect x="745.0" y="82.3" width="325.0" height="1.4" fill="#24292f" opacity=".5"/>
+<text x="745.0" y="108.1" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#24292f" xml:space="preserve">  4:12  self-<tspan fill="#1a7f37">attention</tspan> is key</text>
+<text x="745.0" y="129.1" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#24292f" xml:space="preserve"><tspan fill="#1a7f37">▸</tspan>12:47  multi-head <tspan fill="#1a7f37">attention</tspan></text>
+<text x="745.0" y="150.1" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#24292f" xml:space="preserve"> 31:05  why <tspan fill="#1a7f37">attention</tspan> wins</text>
+<text x="745.0" y="176.1" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#24292f" xml:space="preserve">├──<tspan fill="#1a7f37">┃</tspan>──────<tspan fill="#1a7f37">┃</tspan>────────────<tspan fill="#1a7f37">┃</tspan>──┤</text>
+</svg>

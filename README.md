@@ -18,4 +18,6 @@ I help small teams find the work that eats their week, then automate it:
 
 <a href="https://github.com/lepalph/CVLove"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cvlove-dark.svg"><img alt="CVLove: free CV builder, your data never leaves the browser. TypeScript" src="assets/cvlove-light.svg" width="100%"></picture></a>
 
-<sub>All three are free and MIT licensed. Try CVLove in your browser at <a href="https://cv-love-topaz.vercel.app">cv-love-topaz.vercel.app</a>.</sub>
+<a href="https://github.com/lepalph/trouvaille"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/trouvaille-dark.svg"><img alt="Trouvaille: search what is said in a YouTube video and jump to that moment. Chrome and Opera extension, v0.1.0" src="assets/trouvaille-light.svg" width="100%"></picture></a>
+
+<sub>All four are free and MIT licensed. Try CVLove in your browser at <a href="https://cv-love-topaz.vercel.app">cv-love-topaz.vercel.app</a>.</sub>
